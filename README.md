@@ -1,4 +1,6 @@
-- 👋 Hi, I’m >_< a.k.a Raido_o.
+# 👋 Hi, I’m >_< a.k.a Raido_o.
+
+- ✨ I’m making a visual programming language called "Umihebi". 
 - 👀 I’m interested in visual programming language (/ VPL).
 - 🌱 I’m currently learning Nodejs.
 - 💞️ I’m looking to collaborate on you.
