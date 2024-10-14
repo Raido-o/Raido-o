@@ -4,7 +4,7 @@
 - 👀 I’m interested in visual programming language (/ VPL).
 - 🌱 I’m currently learning Nodejs.
 - 💞️ I’m looking to collaborate on you.
-- 📫 To reach me, please visit my website.
+- 📫 To reach me, please visit the SNS.
 - 😄 Pronouns: -
 - ⚡ Fun fact: I'm from Japan.
 
